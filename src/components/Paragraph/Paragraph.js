@@ -10,4 +10,4 @@ const Paragraph = ({show}) => {
   )
 }
 
-export default Paragraph
+export default Paragraph;
